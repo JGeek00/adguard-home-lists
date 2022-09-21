@@ -2,3 +2,4 @@
 @@||amp-api-edge.apps.apple.com^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 @@||cstat.cdn-apple.com^$important
+@@||downloaddispatch.itunes.apple.com^$important
