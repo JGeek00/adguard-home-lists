@@ -1,0 +1,13 @@
+||lgtvsdp.com^$important
+||eic.cdpsvc.lgtvcommon.com^$important
+||lgappstv.com^$important
+||nudge.lgtvcommon.com^$important
+||rdl.lgtvcommon.com^$important
+||homeprv.lgtvcommon.com^$important
+||recommend.lgtvcommon.com^$important
+||lgsmartad.com^$important
+||lgad.cjpowercast.com.edgesuite.net^$important
+||ngfts.lge.com^$important
+||yumenetworks.com^$important
+||smartclip.net^$important
+||smartclip.com^$important
