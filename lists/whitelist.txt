@@ -1,5 +1,5 @@
-@@||play.itunes.apple.com^$important
-@@||amp-api-edge.apps.apple.com^$important
-@@||play.itunes.apple.com.edgesuite.net^$important
-@@||cstat.cdn-apple.com^$important
-@@||downloaddispatch.itunes.apple.com^$important
+play.itunes.apple.com
+amp-api-edge.apps.apple.com
+play.itunes.apple.com.edgesuite.net
+cstat.cdn-apple.com
+downloaddispatch.itunes.apple.com
