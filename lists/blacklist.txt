@@ -4,3 +4,30 @@
 ||adservice.google.com^$important
 ||pagead2.googleadservices.com^$important
 ||googleadservices.com^$important
+
+# Media.net
+||static.media.net^$important
+||media.net^$important
+||adservetx.media.net^$important
+
+# Doubleclick
+||doubleclick.net^$important
+||ad.doubleclick.net^$important
+||static.doubleclick.net^$important
+||m.doubleclick.net^$important
+||mediavisor.doubleclick.net^$important
+
+# FastClick
+||fastclick.com^$important
+||fastclick.net^$important
+||media.fastclick.net^$important
+||cdn.fastclick.net^$important
+
+# Amazon
+||adtago.s3.amazonaws.com^$important
+||analyticsengine.s3.amazonaws.com^$important
+||advice-ads.s3.amazonaws.com^$important
+||affiliationjs.s3.amazonaws.com^$important
+||advertising-api-eu.amazon.com^$important
+||amazonaax.com^$important
+||amazonclix.com^$important
