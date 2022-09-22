@@ -16,3 +16,6 @@ cdninstagram.com
 
 # Giphy
 giphy.com
+
+# Twitter
+t.co
