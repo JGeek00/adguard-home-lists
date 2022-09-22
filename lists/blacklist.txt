@@ -1,0 +1,6 @@
+# Google
+||pagead2.googlesyndication.com^$important
+||ads.google.com^$important
+||adservice.google.com^$important
+||pagead2.googleadservices.com^$important
+||googleadservices.com^$important
