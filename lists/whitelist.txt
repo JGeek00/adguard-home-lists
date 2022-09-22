@@ -6,8 +6,9 @@ cstat.cdn-apple.com
 downloaddispatch.itunes.apple.com
 
 # TikTok
-ttlivecdn.com
-tiktokcdn.com
+@@||ttlivecdn.com^$important
+@@||tiktokv.com^$important
+@@||tiktokcdn.com^$important
 
 # Instagram
 instagram.com
