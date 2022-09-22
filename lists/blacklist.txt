@@ -31,3 +31,13 @@
 ||advertising-api-eu.amazon.com^$important
 ||amazonaax.com^$important
 ||amazonclix.com^$important
+
+# Other
+||crystal-blocker.com^$important
+||skiptheadz.net^$important
+||autifuleedeh.xyz^$important
+||awigglespouter.cam^$important
+||tincalsamiably.website^$important
+||d3x0jb14w6nqz.cloudfront.net^$important
+||stats.g.doubleclick.net^$important
+||trustbummler.com^$important
