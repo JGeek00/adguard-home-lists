@@ -19,3 +19,6 @@ giphy.com
 
 # Twitter
 t.co
+
+# Sentry
+sentry.io
