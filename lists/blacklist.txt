@@ -1,43 +1,43 @@
 # Google
-||pagead2.googlesyndication.com^$important
-||ads.google.com^$important
-||adservice.google.com^$important
-||pagead2.googleadservices.com^$important
-||googleadservices.com^$important
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
 
 # Media.net
-||static.media.net^$important
-||media.net^$important
-||adservetx.media.net^$important
+static.media.net
+media.net
+adservetx.media.net
 
 # Doubleclick
-||doubleclick.net^$important
-||ad.doubleclick.net^$important
-||static.doubleclick.net^$important
-||m.doubleclick.net^$important
-||mediavisor.doubleclick.net^$important
+doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
 
 # FastClick
-||fastclick.com^$important
-||fastclick.net^$important
-||media.fastclick.net^$important
-||cdn.fastclick.net^$important
+fastclick.com
+fastclick.net
+media.fastclick.net
+cdn.fastclick.net
 
 # Amazon
-||adtago.s3.amazonaws.com^$important
-||analyticsengine.s3.amazonaws.com^$important
-||advice-ads.s3.amazonaws.com^$important
-||affiliationjs.s3.amazonaws.com^$important
-||advertising-api-eu.amazon.com^$important
-||amazonaax.com^$important
-||amazonclix.com^$important
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
 
 # Other
-||crystal-blocker.com^$important
-||skiptheadz.net^$important
-||autifuleedeh.xyz^$important
-||awigglespouter.cam^$important
-||tincalsamiably.website^$important
-||d3x0jb14w6nqz.cloudfront.net^$important
-||stats.g.doubleclick.net^$important
-||trustbummler.com^$important
+crystal-blocker.com
+skiptheadz.net
+autifuleedeh.xyz
+awigglespouter.cam
+tincalsamiably.website
+d3x0jb14w6nqz.cloudfront.net
+stats.g.doubleclick.net
+trustbummler.com
